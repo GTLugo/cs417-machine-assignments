@@ -1,8 +1,0 @@
-[package]
-name = "dectobin"
-version = "1.0.0"
-edition = "2021"
-
-[dependencies]
-clap = { version = "4.5.x", features = ["derive"] }
-fraction = "0.15.x"
