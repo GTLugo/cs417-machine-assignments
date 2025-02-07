@@ -1,4 +1,4 @@
-# CS 417 - Computational Methods & Software - Machine Assignment 1
+# CS 417 - Computational Methods & Software - Machine Assignment 2
 
 ## How to build
 
@@ -12,4 +12,4 @@ Run `cargo test` in the root directory to run the tests
 
 ## How to run
 
-Run the program as `dectobin -n <space-delimited list of real numbers to convert>`
+Run the program as `decto <base> <space-delimited list of real numbers to convert>`
